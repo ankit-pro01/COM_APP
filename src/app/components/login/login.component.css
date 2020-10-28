@@ -1,0 +1,17 @@
+.login-card{
+    margin: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-top: 9vh;
+    width: 400px;
+    text-align: center;
+}
+
+.login-card img{
+    width: 60%;
+}
+mat-form-field{
+    width: 100%;
+}
